@@ -1,2 +1,3 @@
-# dk-15761
-repeat assignment
+-Design variation of pong--
+--David Kenny 15761--
+--Computer Game Design--
